@@ -12,7 +12,7 @@ We utilize a brain tumor dataset specifically curated for this project. You can 
 
 ## Changes and Modifications
 
-- **Model Architecture**: While the original repository used Keras for implementing neural network architectures, we have adapted the code to use PyTorch by adding a class that generates the model. This significant modification enables us to take advantage of PyTorch's functionalities and seamlessly integrate our models with other PyTorch-based workflows.
+While the original repository used Keras for implementing neural network architectures, we have adapted the code to use PyTorch by adding a class that generates the model. This significant modification enables us to take advantage of PyTorch's functionalities and seamlessly integrate our models with other PyTorch-based workflows.
 
 ## Credits
 
