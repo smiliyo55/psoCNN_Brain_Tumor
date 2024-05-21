@@ -8,7 +8,7 @@ Our project aims to leverage PSO in conjunction with deep learning techniques to
 
 ## Dataset
 
-We utilize a brain tumor dataset specifically curated for this project. You can find the dataset [here]([link_to_dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)). The dataset includes a diverse set of brain tumor images for training and evaluation.
+We utilize a brain tumor dataset specifically curated for this project. You can find the dataset [here](link_to_dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset). The dataset includes a diverse set of brain tumor images for training and evaluation.
 
 ## Changes and Modifications
 
@@ -16,7 +16,7 @@ While the original repository used Keras for implementing neural network archite
 
 ## Credits
 
-This project is based on the work of Francisco Erivaldo Fernandes Junior. The original repository can be found [here]([link_to_original_repository](https://github.com/feferna/psoCNN.git)).
+This project is based on the work of Francisco Erivaldo Fernandes Junior. The original repository can be found [here](link_to_original_repository](https://github.com/feferna/psoCNN.git).
 
 ## License
 
