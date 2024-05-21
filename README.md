@@ -1,6 +1,6 @@
 # Brain Tumor Classification with Particle Swarm Optimization (PSO)
 
-This repository contains code adapted from the original work by Francisco Erivaldo Fernandes Junior on Particle Swarm Optimization (PSO) of deep neural networks architectures for image classification. This adaptation was conducted by Smili Youssef under the supervision of Professor Douda Sofia. We have modified and extended the original implementation to apply it to the task of brain tumor classification using a dataset specific to this domain.
+This repository contains code adapted from the original work by Francisco Erivaldo Fernandes Junior on Particle Swarm Optimization (PSO) of deep neural networks architectures for image classification. This adaptation was conducted by Smili Youssef under the supervision of Professor Douda Sofia as part of my master's final year project. We have modified and extended the original implementation to apply it to the task of brain tumor classification using a dataset specific to this domain.
 
 ## Overview
 
